@@ -1,44 +1,5 @@
 # python-basics-before-oops
 
-task 1 :- Print your name, age, and city in a single print() using a separator |
-task 2 :- Print numbers 1–5 on the same line using end=" "
-task 3 :- Print a formatted invoice: item name, qty, price — aligned using f-strings
+This repository contains basic Python practice tasks that are essential to complete before diving into Object-Oriented Programming (OOP) concepts. These exercises help strengthen your fundamentals and prepare you for more advanced topics.
 
 
-task 4 :- Swap two variables without using a third variable
-task 5 :- Assign multiple variables in one line and print their types
-task 6 :- Create a variable storing your full name, then extract first and last name from it
-
-
-task 7 :- Check if a number is positive, negative, or zero
-task 8 :- Build a basic grade calculator (90+=A, 80+=B, etc.)
-task 9 :- Check if a year is a leap year using only if/elif/else
-
-
-task 10 :- Print multiplication table of any number using for loop
-task 11 :- Reverse a string using a for loop (no [::-1])
-task 12 :- Find all prime numbers between 1–100 using nested for loops
-task 13 :- Use while to keep asking user for input until they type "quit"
-task 14 :- Print a right-angle triangle pattern using * with nested loops
-
-
-task 15 :- pass function — Create a placeholder function future_feature() using pass, then later fill it
-task 16 :- global & local variable — Write a function that modifies a global counter each time it's called
-task 17 :- recursion — Calculate factorial of n using recursion
-task 18 :- recursion — Fibonacci series up to n terms using recursion
-task 19 :- args — Write a function that accepts any number of scores and returns the average
-task 20 :- kwargs — Write a function that builds a user profile dict from keyword arguments
-task 21 :- first class function — Pass a math operation (add/subtract) as a parameter to another function
-task 22 :- first class function — Store 3 different functions in a list and call them in a loop
-task 23 :- lambda — Sort a list of tuples by the second element using lambda
-task 24 :- map/filter/reduce — Given a list of prices, use map to apply 18% GST, filter to keep items >500, and reduce to get the total
-
-
-task 25 :- Use math module — find square root, ceil, and floor of a number
-task 26 :- Use random module — build a number guessing game (1–100)
-task 27 :- Use datetime module — print how many days are left until New Year
-
-
-task 28 :- Write a recursive function with a global call counter (combines recursion + global variable)
-task 29 :- Use map() with a lambda to convert a list of Celsius temps to Fahrenheit
-task 30 :- Write a function using *args and **kwargs together — accepts item names and their prices, prints a bill
